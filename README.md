@@ -59,8 +59,11 @@ department.Dnumber | project.Dnum | 1 : N
 ## 🧠 Medidas DAX
 
 Total Projects = DISTINCTCOUNT(project[Pname])
+
 Total Managers = DISTINCTCOUNT(employee[Manager])
+
 Total Employees = DISTINCTCOUNT(employee[FullName])
+
 Total Hours = SUM(works_on[Hours])
 
 ---
