@@ -65,7 +65,7 @@ Total Hours = SUM(works_on[Hours])
 
 ---
 
-📈 Visualizações no Dashboard
+## 📈 Visualizações no Dashboard
 
 - Cards: KPIs de projetos, gestores, funcionários e horas totais
 - Barra Clássica: Horas x Tamanho da equipe por projeto
@@ -77,7 +77,7 @@ Total Hours = SUM(works_on[Hours])
 
 ---
 
-📚 Aprendizados
+## 📚 Aprendizados
 
 - Conexão com banco de dados em nuvem (Azure SQL)
 - ETL e limpeza avançada com Power Query
@@ -87,7 +87,7 @@ Total Hours = SUM(works_on[Hours])
 
 ---
 
-🙌 Créditos
+## 🙌 Créditos
 
 Desenvolvido como parte do bootcamp da Digital Innovation One (DIO).
 
